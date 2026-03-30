@@ -3,5 +3,3 @@
 ---
 
 This is the home of my [[Digital Garden\|Digital Garden]].
-
-![[Canvas Test.canvas\|Canvas Test.canvas]]
