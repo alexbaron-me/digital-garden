@@ -162,3 +162,4 @@ function getFileTree(data) {
 }
 
 exports.getFileTree = getFileTree;
+exports.naturalCompare = naturalCompare;
