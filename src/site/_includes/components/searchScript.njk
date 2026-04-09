@@ -469,7 +469,8 @@
         const dataIds = [...allIds];
         const finalResults = dataIds.map((id) => {
             const result = { ...data[id] };
-            result.tags = result.tags.filter((x) => x !== "gardenEntry" && x !== "note");
+            const blacklistedTags = {{ meta.blacklistedTags | dump | safe }};
+            result.tags = result.tags.filter((x) => !blacklistedTags.includes(x));
             return result;
         });
 

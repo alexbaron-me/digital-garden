@@ -86,6 +86,13 @@ module.exports = async (data) => {
     canvasResetHint: process.env.UI_CANVAS_RESET_HINT || "Double-click to reset",
   };
 
+  const blacklistedTags = ["gardenEntry", "note"];
+  if (process.env.BLACKLISTED_TAGS) {
+    blacklistedTags.push(
+      ...process.env.BLACKLISTED_TAGS.split(",").map((t) => t.trim()).filter(Boolean)
+    );
+  }
+
   const meta = {
     env: process.env.ELEVENTY_ENV,
     theme: process.env.THEME,
@@ -100,6 +107,7 @@ module.exports = async (data) => {
     siteBaseUrl: baseUrl,
     styleSettingsCss,
     uiStrings,
+    blacklistedTags,
     buildDate: new Date(),
   };
 

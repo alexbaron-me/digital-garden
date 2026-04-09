@@ -35,7 +35,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
           {% if settings.dgShowTags === true and tags %}
             <div class="header-tags">
               {% for tag in tags %}
-                {% if tag != 'gardenEntry' and tag !='note' %}
+                {% if tag not in meta.blacklistedTags %}
                   <a class="tag" onclick="toggleTagSearch(this)">
                     #{{tag}}
                   </a>
