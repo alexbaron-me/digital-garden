@@ -7,7 +7,6 @@
 
 Das Verhältnis der Tiefe an Erholung und Tiefe an Konzentration ähnelt der einer Sinuskurve: eine “flache” Erholung limitiert die maximale Konzentration; eine tiefe Erholung ist aber Voraussetzung für guten Fokus[^1].
 
-
 ## Verweise
 - [[Deep Work\|Deep Work]]
 ## Quellen
