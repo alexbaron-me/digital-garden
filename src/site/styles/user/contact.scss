@@ -1,0 +1,14 @@
+.contact-prompt {
+  padding-top: 0.5rem;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.9em;
+
+  a {
+    color: var(--text-accent);
+
+    &:hover {
+      color: var(--text-accent-hover);
+    }
+  }
+}

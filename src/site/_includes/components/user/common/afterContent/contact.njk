@@ -1,0 +1,9 @@
+{% set rawSlug = page.url | replace("/", "") %}
+{% set emailSlug = rawSlug if rawSlug else "home" %}
+{% set contactEmail = "digitalgarden+" + emailSlug + "@alexbaron.me" %}
+<section class="contact-prompt">
+  <p>
+    Thoughts or questions about this note?
+    <a href="mailto:{{ contactEmail }}">Send me a message.</a>
+  </p>
+</section>
