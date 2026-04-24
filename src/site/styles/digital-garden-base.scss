@@ -1203,6 +1203,16 @@ body.has-navbar .content {
     font-size: var(--dg-search-link-size);
 }
 
+.random-button {
+    text-decoration: none;
+    color: var(--text-muted);
+    flex-shrink: 0;
+
+    &:hover {
+        color: var(--text-normal);
+    }
+}
+
 .search-button {
     background-color: var(--background-primary);
     border-radius: var(--dg-search-btn-radius);

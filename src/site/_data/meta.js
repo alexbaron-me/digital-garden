@@ -84,6 +84,7 @@ module.exports = async (data) => {
     canvasDragHint: process.env.UI_CANVAS_DRAG_HINT || "Drag to pan",
     canvasZoomHint: process.env.UI_CANVAS_ZOOM_HINT || "Scroll to zoom",
     canvasResetHint: process.env.UI_CANVAS_RESET_HINT || "Double-click to reset",
+    randomButtonText: process.env.UI_RANDOM_BUTTON_TEXT || "Zufällige Notiz",
   };
 
   const blacklistedTags = ["gardenEntry", "note"];
