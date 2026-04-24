@@ -341,6 +341,7 @@ ul.task-list {
 
 .sidebar {
     position: fixed !important;
+    isolation: isolate;
     top: var(--dg-sidebar-top);
 
     // Position after content: follows content's right edge + gap
@@ -559,6 +560,7 @@ body:has(.content.canvas-page) .sidebar {
         left: auto !important;
         right: auto !important;
         top: auto !important;
+        z-index: auto !important;
         transform: none;
         margin-top: 40px;
         max-width: calc(100vw - 300px);
