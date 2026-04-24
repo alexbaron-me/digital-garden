@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ralph-loop/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"up":"[[LLM]]"}}
+{"dg-publish":true,"permalink":"/ralph-loop/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"up":"[[LLM]]","created":"2026-04-01T15:39:00+02:00","modified":"2026-04-24T08:40:03+02:00"}}
 ---
 
 Eine Form von [[Harness\|Harness]], welche in Endlosschleife einen neuen Agenten spawnt. Dieser befolgt die aktuelle Aufgabe aus der `PROMPT.md`, und gibt anschließend dem Nachfolger einen neuen Prompt. Basiert auf [[Subagent\|Subagent]]s, um Arbeit auszulagern, ohne dass [[Context Window\|Context Window]] des Hauptagenten zugemüllt wird.

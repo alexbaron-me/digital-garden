@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/demokratie-erwartet-dass-alle-buerger-experten-sind/","tags":["fleeting"],"dg-note-properties":{"tags":["fleeting"],"sr-due":"2026-04-16","sr-interval":4,"sr-ease":230}}
+{"dg-publish":true,"permalink":"/demokratie-erwartet-dass-alle-buerger-experten-sind/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"sr-due":"2026-04-16","sr-interval":4,"sr-ease":230,"up":["[[Zettelkasten]]"],"created":"2026-03-31T08:17:47+02:00","modified":"2026-04-24T08:39:38+02:00"}}
 ---
 
 Die Kernidee der demokratischen Partizipation ist, dass sich die Bürger über aktuelle Probleme informiert halten, die Argumente aller Parteien gegeneinander aufwiegen, und zur nächsten Wahl für die Partei zu stimmen, die ihnen am besten passt. Unsere Welt ist aber ungemein komplex, und unser Alltag zum Bersten gefüllt. Kaum jemand hat die Kapazität, sich tiefgreifend mit _allen_, oder auch nur den meisten Problemen unserer Zeit zu befassen.

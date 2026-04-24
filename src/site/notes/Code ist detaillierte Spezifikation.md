@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/code-ist-detaillierte-spezifikation/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"sr-due":"2026-04-01","sr-interval":1,"sr-ease":228,"up":["[[Abstraktion ermöglicht Präzision\|Abstraktion ermöglicht Präzision]]"]}}
+{"dg-publish":true,"permalink":"/code-ist-detaillierte-spezifikation/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"sr-due":"2026-04-01","sr-interval":1,"sr-ease":228,"up":["[[Abstraktion ermöglicht Präzision\|Abstraktion ermöglicht Präzision]]"],"created":"2026-03-31T07:41:30+02:00","modified":"2026-04-24T08:39:28+02:00"}}
 ---
 
 In Modellen wie [[Waterfall\|Waterfall]] (und seit neuerem auch [[Spec Driven Design\|Spec Driven Design]]) wird die zu entwickelnde Software in einem Dokument definiert, bevor die Implementierung beginnt. So soll sichergestellt werden, dass ein gemeinsames Ziel existiert (ähnlich zu [[Missions- und Visions-Statement geben Klarheit\|Missions- und Visions-Statement geben Klarheit]], nur völlig anderer Kontext).

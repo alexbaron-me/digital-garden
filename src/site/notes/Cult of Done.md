@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cult-of-done/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"up":["[[Perfektionismus lähmt Handlungsfähigkeit]]"]}}
+{"dg-publish":true,"permalink":"/cult-of-done/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"up":["[[Perfektionismus lähmt Handlungsfähigkeit]]"],"created":"2026-04-06T10:01:19+02:00","modified":"2026-04-24T08:41:54+02:00"}}
 ---
 
 1. There are three states of being. **Not knowing, action and completion**.

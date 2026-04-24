@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-ist-fuer-firmen-viel-lohnenswerter-als-fuer-privatpersonen/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"sr-due":"2026-04-01","sr-interval":1,"sr-ease":230,"up":"[[AI erhöht Eintrittshürden in Software Development\|AI erhöht Eintrittshürden in Software Development]]"}}
+{"dg-publish":true,"permalink":"/ai-ist-fuer-firmen-viel-lohnenswerter-als-fuer-privatpersonen/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"sr-due":"2026-04-01","sr-interval":1,"sr-ease":230,"up":"[[AI erhöht Eintrittshürden in Software Development\|AI erhöht Eintrittshürden in Software Development]]","created":"2026-04-01T09:34:40+02:00","modified":"2026-04-24T08:40:08+02:00"}}
 ---
 
 Als Privatperson sind [[LLM\|AI]]-Angebote wie Claude Max (120€/Monat) ziemlich teuer. Im Vergleich dazu ist für eine Firma die selbe Ausgabe ein No-Brainer: die Kosten von weniger als einem Personaltag, um aus den Angestellen mehrere PT an Produktivität herauszuholen? Auf geht’s!

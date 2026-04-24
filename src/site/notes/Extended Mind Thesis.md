@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extended-mind-thesis/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"sr-due":"2026-04-02","sr-interval":1,"sr-ease":230,"aliases":["Active Externalism","EMT"],"up":["[[Digital Garden]]"]}}
+{"dg-publish":true,"permalink":"/extended-mind-thesis/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"sr-due":"2026-04-02","sr-interval":1,"sr-ease":230,"aliases":["Active Externalism","EMT"],"up":["[[Digital Garden]]"],"created":"2026-03-31T22:54:36+02:00","modified":"2026-04-24T08:39:49+02:00"}}
 ---
 
 Stellt die These auf, dass man körperlich externe Dinge durchaus als Teil des Bewusstseins auffassen kann. Im ursprünglichen Paper von 1998 wird hier ein Charakter namens Otto aufgebracht, welcher ein Notizbuch als Gedächtnis nutzt.

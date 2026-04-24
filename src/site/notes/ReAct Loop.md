@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/re-act-loop/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"up":"[[Harness\|Harness]]"}}
+{"dg-publish":true,"permalink":"/re-act-loop/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"up":"[[Harness\|Harness]]","created":"2026-04-01T16:07:07+02:00","modified":"2026-04-24T08:40:13+02:00"}}
 ---
 
 ![Pasted image 20260401160747.png](/img/user/Pasted%20image%2020260401160747.png)

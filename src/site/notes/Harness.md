@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/harness/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"up":"[[LLM|AI]]"}}
+{"dg-publish":true,"permalink":"/harness/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"up":"[[LLM|AI]]","created":"2026-04-01T15:39:02+02:00","modified":"2026-04-24T08:40:12+02:00"}}
 ---
 
 > “The model contains the intelligence and the harness is the system that makes that intelligence useful” ~[[meta/readwise/LangChain Blog - The Anatomy of an Agent Harness\|LangChain Blog - The Anatomy of an Agent Harness]]

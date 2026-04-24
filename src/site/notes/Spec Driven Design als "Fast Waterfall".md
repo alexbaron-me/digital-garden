@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spec-driven-design-als-fast-waterfall/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"sr-due":"2026-03-31","sr-interval":1,"sr-ease":230,"up":["[[Software-Projektmanagement geht davon aus, dass Entwicklung langsam ist\|Software-Projektmanagement geht davon aus, dass Entwicklung langsam ist]]"]}}
+{"dg-publish":true,"permalink":"/spec-driven-design-als-fast-waterfall/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"sr-due":"2026-03-31","sr-interval":1,"sr-ease":230,"up":["[[Software-Projektmanagement geht davon aus, dass Entwicklung langsam ist\|Software-Projektmanagement geht davon aus, dass Entwicklung langsam ist]]"],"created":"2026-03-29T21:36:21+02:00","modified":"2026-04-24T08:40:31+02:00"}}
 ---
 
 [[Spec Driven Design\|Spec Driven Design]] wird häufig als Neuerfindung von [[Waterfall\|Waterfall]] belächelt. Tatsächlich wird dabei aber ein essenzieller Unterschied übersehen: die Iterationsgeschwindigkeit. 
@@ -13,8 +13,5 @@ Das Problem an [[Waterfall\|Waterfall]], welches von [[Agile\|Agile]] gelöst we
 - Siehe auch: [[Ralph loop\|Ralph loop]]
 - [[Software-Projektmanagement geht davon aus, dass Entwicklung langsam ist]]
 ## Quellen
-
-> [!QUOTE] Ursprünglicher Capture
-> Spec Driven Design as "Fast Waterfall"
 
 [^1]: Selbst dieser Akt kann schon Problemverständnis verbessern: genau das passiert bei [[Rubber Duck Debugging\|Rubber Duck Debugging]]

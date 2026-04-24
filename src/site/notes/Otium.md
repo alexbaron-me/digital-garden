@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/otium/","tags":["atomic"],"dg-note-properties":{"up":"[[Zettelkasten]]","tags":["atomic"]}}
+{"dg-publish":true,"permalink":"/otium/","tags":["atomic"],"dg-note-properties":{"up":"[[Zettelkasten]]","tags":["atomic"],"created":"2026-03-25T20:54:57+01:00","modified":"2026-04-24T08:40:59+02:00"}}
 ---
 
 Lateinischer Begriff für [[Freizeit\|Freizeit]], Gegenteil von [[Negotium\|Negotium]] (öffentliche oder geschäftliche Affären). Im Gegensatz zur modernen Blickweise ist Otium allerdings nicht die Abwesenheit von Arbeit, sondern Arbeit die Abwesenheit von Otium (ähnlich zu der Perspektive, die [[Mark Forster\|Mark Forster]] auf [[Arbeit\|Arbeit]] hatte).

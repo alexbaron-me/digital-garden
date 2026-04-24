@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abstraktion-ermoeglicht-praezision/","tags":["atomic","software-dev"],"dg-note-properties":{"tags":["atomic","software-dev"],"sr-due":"2026-04-02","sr-interval":1,"sr-ease":228,"up":"[[Zettelkasten]]"}}
+{"dg-publish":true,"permalink":"/abstraktion-ermoeglicht-praezision/","tags":["atomic"],"dg-note-properties":{"tags":["atomic"],"sr-due":"2026-04-02","sr-interval":1,"sr-ease":228,"up":"[[Zettelkasten]]","created":"2026-04-01T09:59:38+02:00","modified":"2026-04-24T08:39:26+02:00"}}
 ---
 
 > The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise. ~[[Edsger W. Dijkstra\|Edsger W. Dijkstra]]
