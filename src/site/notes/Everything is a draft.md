@@ -8,7 +8,3 @@ Nichts ist jemals fertig. Prototypen gehen in Produktion, Texte bekommen nie den
 1. [[Perfektionismus\|Perfektionismus]]
 ## Quellen
 1. [[Cult of Done]]
-
-> [!QUOTE] Ursprünglicher Capture
-> Everything is a draft
-
