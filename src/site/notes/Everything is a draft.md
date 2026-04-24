@@ -7,4 +7,4 @@ Nichts ist jemals fertig. Prototypen gehen in Produktion, Texte bekommen nie den
 ## Verweise
 1. [[Perfektionismus\|Perfektionismus]]
 ## Quellen
-1. [[Cult of Done]]
+1. [[Cult of Done\|Cult of Done]]
